@@ -1,0 +1,22 @@
+SMAP
+PideModelo_jsp.java
+JSP
+*S JSP
+*F
++ 0 PideModelo.jsp
+PideModelo.jsp
++ 1 ConectividadBaseDeDatos.jsp
+ConectividadBaseDeDatos.jsp
+*L
+5,6:57
+5#1,9:62
+16,5:73
+20:78
+10#0,111:79
+120,6:190
+125,6:196
+130,3:202
+132,9:205
+140,3:214
+142,10:217
+*E

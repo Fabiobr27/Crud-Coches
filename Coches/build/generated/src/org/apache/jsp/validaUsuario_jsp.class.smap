@@ -1,0 +1,17 @@
+SMAP
+validaUsuario_jsp.java
+JSP
+*S JSP
+*F
++ 0 validaUsuario.jsp
+validaUsuario.jsp
++ 1 ConectividadBaseDeDatos.jsp
+ConectividadBaseDeDatos.jsp
+*L
+5,6:57
+5#1,9:62
+16,5:73
+20:78
+10#0,4:79
+13,30:82
+*E
